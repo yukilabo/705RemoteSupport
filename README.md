@@ -1,9 +1,12 @@
 # 705 Remote Support
 
-## about 705 Remote
+## Download page
+https://apps.apple.com/jp/app/705-remote/id1551346882
+
+## About 705 Remote
 **705 Remote** is an unofficial app for remote control of the IC-705 via Bluetooth.
 
-YouTube - How to pairing with IC-705
+[YouTube - How to pairing with IC-705](https://www.youtube.com/watch?v=0KiToqVZArM)
 
 [![705 Remote](http://img.youtube.com/vi/0KiToqVZArM/0.jpg)](https://www.youtube.com/watch?v=0KiToqVZArM "705 Remote")
 
