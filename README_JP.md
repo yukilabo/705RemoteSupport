@@ -1,11 +1,14 @@
 # 705 Remote サポート
 
+## ダウンロードページ
+https://apps.apple.com/jp/app/705-remote/id1551346882
+
 ## 705 Remote について
 **705 Remote** は IC-705 を Bluetooth でリモートコントロールするための非公式アプリです。
 
 本ページでは iOS 版 の 705Remote について説明します。 
 
-YouTube - How to pairing with IC-705
+[YouTube - How to pairing with IC-705](https://www.youtube.com/watch?v=0KiToqVZArM)
 
 [![705 Remote](http://img.youtube.com/vi/0KiToqVZArM/0.jpg)](https://www.youtube.com/watch?v=0KiToqVZArM "705 Remote")
 
